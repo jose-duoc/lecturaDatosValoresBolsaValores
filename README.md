@@ -1,4 +1,4 @@
-# Procesador de Log de Ventas JSON
+# Procesador de Log de Ventas de la Bolsa de Valores en Formato JSON
 
 Este proyecto es una herramienta en Python diseñada para parsear, procesar y analizar archivos de registros (logs) de ventas. El script busca líneas específicas dentro de un archivo de texto, extrae cadenas en formato JSON embebido y genera estadísticas financieras globales y por cliente.
 
